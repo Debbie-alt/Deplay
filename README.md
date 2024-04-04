@@ -19,12 +19,12 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/nexttunes.git
+git clone 
 Navigate to the project directory:
 
 bash
 Copy code
-cd nexttunes
+cd deplay
 Install dependencies:
 
 Copy code
@@ -34,6 +34,7 @@ Start the development server:
 arduino
 Copy code
 npm run dev
+
 Technologies Used:
 Next.js: A React framework for building server-side rendered and statically generated web applications.
 
